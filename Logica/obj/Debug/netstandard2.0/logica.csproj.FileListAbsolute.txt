@@ -1,0 +1,14 @@
+C:\Users\leandro\Desktop\APLICACIONES SPA\logica\bin\Debug\netstandard2.0\logica.deps.json
+C:\Users\leandro\Desktop\APLICACIONES SPA\logica\bin\Debug\netstandard2.0\logica.dll
+C:\Users\leandro\Desktop\APLICACIONES SPA\logica\bin\Debug\netstandard2.0\logica.pdb
+C:\Users\leandro\Desktop\APLICACIONES SPA\logica\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\leandro\Desktop\APLICACIONES SPA\logica\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\leandro\Desktop\APLICACIONES SPA\logica\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\leandro\Desktop\APLICACIONES SPA\logica\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\leandro\Desktop\APLICACIONES SPA\logica\obj\Debug\netstandard2.0\logica.csprojAssemblyReference.cache
+C:\Users\leandro\Desktop\APLICACIONES SPA\logica\obj\Debug\netstandard2.0\logica.csproj.CoreCompileInputs.cache
+C:\Users\leandro\Desktop\APLICACIONES SPA\logica\obj\Debug\netstandard2.0\logica.AssemblyInfoInputs.cache
+C:\Users\leandro\Desktop\APLICACIONES SPA\logica\obj\Debug\netstandard2.0\logica.AssemblyInfo.cs
+C:\Users\leandro\Desktop\APLICACIONES SPA\logica\obj\Debug\netstandard2.0\logica.csproj.CopyComplete
+C:\Users\leandro\Desktop\APLICACIONES SPA\logica\obj\Debug\netstandard2.0\logica.dll
+C:\Users\leandro\Desktop\APLICACIONES SPA\logica\obj\Debug\netstandard2.0\logica.pdb
